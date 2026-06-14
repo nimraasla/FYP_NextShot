@@ -2,8 +2,8 @@
 
 An intelligent Android application that uses **AI-powered pose estimation** to analyze a batsman's technique in real-time and provide actionable feedback to improve batting skills.
 
-![NextShot](screenshots/demo.gif)  
-*(Replace with actual screenshot or demo GIF)*
+### Upload Mode
+<img src="screenshots/demo.gif" width="400" alt="Demo">
 
 ## 🎯 Purpose
 
@@ -48,8 +48,23 @@ It provides **real-time visual feedback** (skeleton overlay) along with performa
 
 ## 📱 Screenshots
 
-*(Add 4-6 screenshots here - Live Camera, Video Analysis, Skeleton Overlay, Session History, Progress Screen, etc.)*
-![Thumbnail](screenshots/thumbnail.jpeg)
+### Thumbnail
+<img src="screenshots/thumbnail" width="400" alt="Thumbnail">
+
+### Main Page
+<img src="screenshots/main page.jpeg" width="400" alt="Main Page">
+
+### Practice Session
+<img src="screenshots/practice session.jpeg" width="400" alt="Practice Session">
+
+### Performance Tracking
+<img src="screenshots/performance tracking.jpeg" width="400" alt="Performance Tracking">
+
+### LLM Feedback
+<img src="screenshots/LLM feedback.jpeg" width="400" alt="LLM Feedback">
+
+### Video Links
+<img src="screenshots/video links.jpeg" width="400" alt="Video Links">
 ---
 
 ## 🚀 How to Run the Project
