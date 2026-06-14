@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main Navigation">
+        <menu>
+            <item
+                android:id="@+id/nav_dashboard"
+                android:icon="@drawable/img_11"
+                android:title="Dashboard" />
+            <item
+                android:id="@+id/nav_practice"
+                android:icon="@drawable/img_12"
+                android:title="Practice Session" />
+            <item
+                android:id="@+id/nav_progress"
+                android:icon="@drawable/img_13"
+                android:title="Progress Tracker" />
+            <item
+                android:id="@+id/nav_tips"
+                android:icon="@drawable/img_14"
+                android:title="AI Tips &amp; Advice" />
+            <item
+                android:id="@+id/AI"
+                android:icon="@drawable/chat_bubble"
+                android:title="AI Coaching Chat" />
+        </menu>
+    </item>
+
+    <item android:title="Account &amp; History">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/user"
+                android:title="My Profile" />
+            <item
+                android:id="@+id/session_history"
+                android:icon="@drawable/history"
+                android:title="Session History" />
+            <item
+                android:id="@+id/notification"
+                android:icon="@drawable/notification"
+                android:title="Notifications" />
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/setting"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+    <group android:id="@+id/menu_bottom">
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/img_20"
+            android:title="Sign Out" />
+    </group>
+
+</menu>
