@@ -49,22 +49,22 @@ It provides **real-time visual feedback** (skeleton overlay) along with performa
 ## 📱 Screenshots
 
 ### Thumbnail
-<img src="screenshots/thumbnail" width="400" alt="Thumbnail">
+<img src="screenshots/thumbnail" width="200" alt="Thumbnail">
 
 ### Main Page
-<img src="screenshots/main page.jpeg" width="400" alt="Main Page">
+<img src="screenshots/main page.jpeg" width="200" alt="Main Page">
 
 ### Practice Session
-<img src="screenshots/practice session.jpeg" width="400" alt="Practice Session">
+<img src="screenshots/practice session.jpeg" width="200" alt="Practice Session">
 
 ### Performance Tracking
-<img src="screenshots/performance tracking.jpeg" width="400" alt="Performance Tracking">
+<img src="screenshots/performance tracking.jpeg" width="200" alt="Performance Tracking">
 
 ### LLM Feedback
-<img src="screenshots/LLM feedback.jpeg" width="400" alt="LLM Feedback">
+<img src="screenshots/LLM feedback.jpeg" width="200" alt="LLM Feedback">
 
 ### Video Links
-<img src="screenshots/video links.jpeg" width="400" alt="Video Links">
+<img src="screenshots/video links.jpeg" width="200" alt="Video Links">
 ---
 
 ## 🚀 How to Run the Project
