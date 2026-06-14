@@ -2,7 +2,7 @@
 
 An intelligent Android application that uses **AI-powered pose estimation** to analyze a batsman's technique in real-time and provide actionable feedback to improve batting skills.
 
-![NextShot Banner](https://via.placeholder.com/800x300?text=NextShot+AI+Cricket+Coach)  
+![NextShot Banner](screenshots/demo.gif)  
 *(Replace with actual screenshot or demo GIF)*
 
 ## 🎯 Purpose
