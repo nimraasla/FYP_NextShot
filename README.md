@@ -49,7 +49,7 @@ It provides **real-time visual feedback** (skeleton overlay) along with performa
 ## 📱 Screenshots
 
 *(Add 4-6 screenshots here - Live Camera, Video Analysis, Skeleton Overlay, Session History, Progress Screen, etc.)*
-
+![Thumbnail](screenshots/thumbnail.jpeg)
 ---
 
 ## 🚀 How to Run the Project
