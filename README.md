@@ -3,7 +3,7 @@
 An intelligent Android application that uses **AI-powered pose estimation** to analyze a batsman's technique in real-time and provide actionable feedback to improve batting skills.
 
 ### Upload Mode
-<img src="screenshots/demo.gif" width="400" alt="Demo">
+<img src="screenshots/demo.gif" width="200" alt="Demo">
 
 ## 🎯 Purpose
 
